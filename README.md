@@ -74,3 +74,13 @@ Blocked
 - Drug entity recognition
 - OpenAI API integration
 - Healthcare policy engine
+
+## Screenshots
+
+### Safe Query
+
+![Safe Query](screenshots/safe_query.png)
+
+### Blocked Query
+
+![Blocked Query](screenshots/blocked_query.png)
